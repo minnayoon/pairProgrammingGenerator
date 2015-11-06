@@ -1,0 +1,53 @@
+body{
+	background-color: HotPink; 
+	position:relative;
+	border-spacing:  20px;
+	display: inline-table;
+	border: dotted; 
+	border-width: 15px;
+	border-color:  Green;
+	border-radius: 100px;
+	
+}
+
+
+h1{
+	font-size: 34px;
+	font-style: italic; 
+	font-weight: bold;
+	border-bottom: ridge;
+	border-bottom-color: Lime;
+	color:  SlateBlue;
+	text-align: center;
+
+
+}
+
+thead{
+	font-variant: small-caps;
+	font-weight: bold;
+	color:  DarkViolet;
+	text-decoration: underline;
+}
+
+table {
+	border-spacing: 10px;
+	margin-left: 35px;
+
+}
+td{
+	border: solid; 5px;
+	border-radius: 40px;
+	border-color:  Aqua;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+
+tr{
+	outline-style: solid;
+	outline-color: Yellow;
+
+}	
+}
